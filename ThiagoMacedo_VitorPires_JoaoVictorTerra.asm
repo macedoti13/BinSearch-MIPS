@@ -1,3 +1,4 @@
+# autores: Thiago Macedo, Vitor Pires, Joao Victor Terra
 .text
 .globl main
 
